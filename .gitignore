@@ -1,0 +1,9 @@
+trigger
+node_modules
+modd.conf
+dist
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
