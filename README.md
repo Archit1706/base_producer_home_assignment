@@ -52,8 +52,6 @@ Warrants empower users as well, addressing a common weakness that arises when co
 
 There are compromises involved in putting such a feature into practice. Achieving the ideal balance between functionality and user-friendliness is essential. An enjoyable virtual marketplace experience requires an intuitive interface, but this shouldn't come at the expense of the richness and genuineness that the warrants feature seeks to offer.
 
-## Screenshots
-
 ## Installation
 
 -   Client
